@@ -1,5 +1,5 @@
 {
-  "latest_version": "4.33",
-  "download_url": "https://github.com/Fabula-Audio/updates/releases/download/v4.33/app-release.apk",
-  "changelog": "​Все работает, и все счастливы."
+  "latest_version": "4.34",
+  "download_url": "https://github.com/Fabula-Audio/updates/releases/download/v4.34/FabulaAudio-4.34-arm64-release.apk",
+  "changelog": "Добавлена кнопка «Исходный код» и ссылка на исходники. Доступны лицензии сторонних библиотек. Аудиообработка не изменялась."
 }
